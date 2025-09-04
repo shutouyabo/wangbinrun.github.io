@@ -5,8 +5,7 @@
     "GMEEK_VERSION":"last",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
-    "allHead":"<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id:"KvtYnIuJhmxVS5bA",ck:"KvtYnIuJhmxVS5bA"})</script>",
+    "allHead":"<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script><script>LA.init({id:"KvtYnIuJhmxVS5bA",ck:"KvtYnIuJhmxVS5bA"})</script>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "singlePage":["link","about"]
 }
