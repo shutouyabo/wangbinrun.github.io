@@ -4,6 +4,12 @@
 - [eekdai快速上手](https://blog.meekdai.com/)
 
 
+**新闻阅读：**
+
+- [Readhub:每天三分钟的科技新闻聚合阅读](https://readhub.cn/)
+- [热点新闻](- https://news.zhihu.blog/)
+
+
 **书籍下载：**
 
 - [Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。](https://zh.z-lib.gd/)
@@ -18,12 +24,19 @@
 
 
 
-**优秀Github项目：**
+**优秀Github项目集合：**
 
 - [老胡的周刊](https://weekly.howie6879.com/)
 
 - [有趣的开源社区 - HelloGitHub](https://hellogithub.com/)
 
+
+
+**优秀的项目：**
+
+- [裁判文书网](https://caseopen.org/)
+- [Docker项目](https://prclub.notion.site/Docker-827eaa2cc9a140538fc4ae5f15a74e95)
+- [推荐12款好用好玩的docker开源项目 生活学习工作全能用的上！](https://blog.kejilion.pro/dockeapp/)
 
 **杂志：**
 
@@ -51,9 +64,20 @@
 
 - [AI工具集](https://ai-bot.cn/)
 
+
 **AI工具：**
+
 - [manus](https://manus.im/)
 
 
+**网友博客：**
 
+- [夜枫 – 如此安好](https://yefengs.com/)
+- [Look Scanned 博客](https://blog.lookscanned.io/zh/)
+
+
+**知识分享：**
+
+- [iFixit：免费修理手册](https://zh.ifixit.com/)
+- [SkylineWebcams - 全球高清实况摄像头！](https://www.skylinewebcams.com/zh/webcam.html)
 
