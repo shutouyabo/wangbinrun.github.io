@@ -12,6 +12,8 @@
 
 **书籍下载：**
 
+- [亚马逊Send to Kindle](https://www.amazon.com/gp/sendtokindle)
+
 - [Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。](https://zh.z-lib.gd/)
 - [雅书 – 个人学习好书推荐与知识分享](https://yabook.blog/)
 - [搬书匠 – 电子书(EBook)](http://www.banshujiang.cn/)
@@ -81,3 +83,10 @@
 - [iFixit：免费修理手册](https://zh.ifixit.com/)
 - [SkylineWebcams - 全球高清实况摄像头！](https://www.skylinewebcams.com/zh/webcam.html)
 
+
+
+**外国app网站：**
+- [X推特](https://x.com/)
+- [Telegram纸飞机](https://web.telegram.org/k/)
+- [Instagram](https://www.instagram.com/)
+- [专为游戏和快乐打造的群聊](https://discord.com/)
