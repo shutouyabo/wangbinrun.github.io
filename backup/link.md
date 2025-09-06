@@ -23,7 +23,7 @@
 - [mobi图书网 – mobi电子书下载第一站](https://www.mobitushu.cn/)
 - [自由图书 – 一个免费的电子书PDF下载网站](https://book5678.com/)
 - [PDF之家 – PDF杂志、PDF图书、PDF漫画免费下载，PDF资源、工具、信息分享](https://pdfzj.com/)
-
+- [读书派 – 电子书下载](https://www.dushupai.com/)
 
 
 **优秀Github项目集合：**
