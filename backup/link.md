@@ -89,4 +89,5 @@
 - [X推特](https://x.com/)
 - [Telegram纸飞机](https://web.telegram.org/k/)
 - [Instagram](https://www.instagram.com/)
+- [threads](https://www.threads.com/)
 - [专为游戏和快乐打造的群聊](https://discord.com/)
