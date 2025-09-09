@@ -14,6 +14,8 @@
 
 **书籍下载：**
 
+- [走读派读书导航 - 读书学习第一站！](http://www.zoudupai.com/)
+
 - [亚马逊Send to Kindle](https://www.amazon.com/gp/sendtokindle)
 
 - [Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。](https://zh.z-lib.gd/)
@@ -27,7 +29,7 @@
 - [PDF之家 – PDF杂志、PDF图书、PDF漫画免费下载，PDF资源、工具、信息分享](https://pdfzj.com/)
 - [读书派 – 电子书下载](https://www.dushupai.com/)
 - [Github：电子书下载宝库](https://github.com/jbiaojerry/ebook-treasure-chest)
-
+- [书葵网 – 海量图书检索下载](https://www.shukui.net/)
 ---
 
 **优秀Github项目集合：**
@@ -74,6 +76,7 @@
 **免费资源合集：**
 
 - [FRE123 免费资源共享平台](https://fre123.com/)
+- [办公人导航-实用的办公生活导航网站！](https://www.bgrdh.com/)
 
 ---
 
@@ -93,6 +96,8 @@
 
 - [夜枫 – 如此安好](https://yefengs.com/)
 - [Look Scanned 博客](https://blog.lookscanned.io/zh/)
+- [JustZht's EchoChamber](https://www.justzht.com/)
+- [首页 | 故事的程序猿](https://blog.lichenghao.cn/)
 
 ---
 
@@ -112,7 +117,14 @@
 
 ---
 
+**背单词：**
+
+- [Type Words - 词文记 | 单词跟打 · 文章跟打](https://2study.top/#/practice)
+- [Typing Word](https://typing-word.wangbin.run/#/practice)
+
+---
+
+**学习：**
 
 
-
-
+[终身教育平台](https://le.ouchn.cn/home)
