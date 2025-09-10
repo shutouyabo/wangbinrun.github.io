@@ -7,29 +7,31 @@
 
 **新闻阅读：**
 
-- [Readhub:每天三分钟的科技新闻聚合阅读](https://readhub.cn/)
+- [Readhub](https://readhub.cn/) 每天三分钟的科技新闻聚合阅读
 - [热点新闻](- https://news.zhihu.blog/)
 
 ---
 
 **书籍下载：**
 
-- [走读派读书导航 - 读书学习第一站！](http://www.zoudupai.com/)
+- [走读派](http://www.zoudupai.com/) 读书导航 - 读书学习第一站！
 
-- [亚马逊Send to Kindle](https://www.amazon.com/gp/sendtokindle)
+- [亚马逊](https://www.amazon.com/gp/sendtokindle) Send to Kindle
 
-- [Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。](https://zh.z-lib.gd/)
-- [雅书 – 个人学习好书推荐与知识分享](https://yabook.blog/)
-- [搬书匠 – 电子书(EBook)](http://www.banshujiang.cn/)
-- [苦瓜书盘](https://kgbook.com/)
+- [fmhy](https://fmhy.net/) 帮助用户轻松找到各种免费的工具、服务和学习资源的网站
+
+- [Z-Library](https://zh.z-lib.gd/) 世界上最大的电子图书馆。自由访问知识和文化。
+- [雅书](https://yabook.blog/) 个人学习好书推荐与知识分享
+- [搬书匠](http://www.banshujiang.cn/) 电子书 – (EBook)
+- [苦瓜书盘](https://kgbook.com/) 
 - [高教书苑](https://ebook.hep.com.cn/)
-- [书籍知识库 – 优质mobi,azw3,TXT,PDF,epub格式电子书分享站](https://www.zhishikoo.com/)
-- [mobi图书网 – mobi电子书下载第一站](https://www.mobitushu.cn/)
-- [自由图书 – 一个免费的电子书PDF下载网站](https://book5678.com/)
-- [PDF之家 – PDF杂志、PDF图书、PDF漫画免费下载，PDF资源、工具、信息分享](https://pdfzj.com/)
-- [读书派 – 电子书下载](https://www.dushupai.com/)
-- [Github：电子书下载宝库](https://github.com/jbiaojerry/ebook-treasure-chest)
-- [书葵网 – 海量图书检索下载](https://www.shukui.net/)
+- [书籍知识库](https://www.zhishikoo.com/)  优质mobi,azw3,TXT,PDF,epub格式电子书分享站
+- [mobi图书网](https://www.mobitushu.cn/)  mobi电子书下载第一站
+- [自由图书](https://book5678.com/)  一个免费的电子书PDF下载网站
+- [PDF之家](https://pdfzj.com/)  PDF杂志、PDF图书、PDF漫画免费下载，PDF资源、工具、信息分享
+- [读书派](https://www.dushupai.com/)  电子书下载
+- [Github](https://github.com/jbiaojerry/ebook-treasure-chest) 电子书下载宝库
+- [书葵网](https://www.shukui.net/) 海量图书检索下载
 ---
 
 **优秀Github项目集合：**
