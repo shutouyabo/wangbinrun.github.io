@@ -36,39 +36,46 @@ Kindle 开 飞行模式
 安全弹出
 
 3. 触发越狱
-回到 Kindle → 菜单 → 打开 浏览器
-地址栏输入：
+（1）回到 Kindle → 菜单 → 打开 浏览器
+（2）地址栏输入：
 plaintext
 https://kindlemodding.org/nosb
-点页面里的 Jeff Bezos 头像 （点一次）
-kindle1
-
+（3）点页面里的 Jeff Bezos 头像 （点一次）
+<img width="3000" height="2660" alt="Image" src="https://github.com/user-attachments/assets/83ae19aa-3f6e-4a68-93e0-7ac670fac8b5" />
 等待 10–30 秒 → 自动回到桌面
 出现 “Success!” 或 KUAL 图标 → 越狱成功
 
 4. 安装热修复（防失效）
-下载：update_hotfix_universal.bin
-放根目录 → 弹出
-Kindle：设置 → 菜单 → 更新您的 Kindle
+（1）下载：update_hotfix_universal.bin
+（2）放根目录 → 弹出
+（3）Kindle：设置 → 菜单 → 更新您的 Kindle
 
+<img width="2859" height="3626" alt="Image" src="https://github.com/user-attachments/assets/fca55c4a-306d-473f-a4a6-55ff20dd5e3d" />
 出现错误，再试一次
 
+<img width="2860" height="3426" alt="Image" src="https://github.com/user-attachments/assets/fb08e765-a52d-4fce-ac67-cd36ca352aab" />
+
+<img width="2824" height="3584" alt="Image" src="https://github.com/user-attachments/assets/68aaaa79-7859-414e-83f5-4a49830666d5" />
+
+<img width="2879" height="3311" alt="Image" src="https://github.com/user-attachments/assets/8dcc2dd9-92b3-4aa6-adf9-383268779efc" />
+
 4. 等待重启 → 完成
+<img width="2854" height="3355" alt="Image" src="https://github.com/user-attachments/assets/eeeefea8-9702-4ee7-b5b0-5f3d272cbd50" />
 
 
 二、安装 KUAL + MRPI（必备）
-下载：KUAL.zip + MRPI.zip
-解压 → 把 extensions 文件夹合并到 Kindle 根目录
-弹出 → 桌面出现 KUAL
+1、下载：KUAL.zip + MRPI.zip
+2、解压 → 把 extensions 文件夹合并到 Kindle 根目录
+3、弹出 → 桌面出现 KUAL
 三、安装 KOReader（HF 版）
 你的固件 ≥5.16.3，必须用 HF（hard float）版
 
-下载： KOReader-HF （kindlemodding 或书伴）
-解压 → 得到：
+1、下载： KOReader-HF （kindlemodding 或书伴）
+2、解压 → 得到：
 extensions
 koreader
-两个文件夹 直接拷到 Kindle 根目录 （合并覆盖）
-弹出
+3、两个文件夹 直接拷到 Kindle 根目录 （合并覆盖）
+4、弹出
 
 四、使用
 打开 KUAL
