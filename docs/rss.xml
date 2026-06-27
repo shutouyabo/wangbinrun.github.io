@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>s Blog</title><link>https://shutouyabo.github.io/wangbinrun.github.io</link><description>红烧鼠头，我喜欢吃。</description><copyright>s Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://shutouyabo.github.io/wangbinrun.github.io</link></image><lastBuildDate>Sat, 27 Jun 2026 14:24:06 +0000</lastBuildDate><managingEditor>s Blog</managingEditor><ttl>60</ttl><webMaster>s Blog</webMaster><item><title>道德的</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/dao-de-de.html</link><description>道德的。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/dao-de-de.html</guid><pubDate>Sat, 27 Jun 2026 14:07:54 +0000</pubDate></item><item><title>memos备忘录数据备份和恢复（用宝塔面板的文件管理器备份Memos数据）</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/memos-bei-wang-lu-shu-ju-bei-fen-he-hui-fu-%EF%BC%88-yong-bao-ta-mian-ban-de-wen-jian-guan-li-qi-bei-fen-Memos-shu-ju-%EF%BC%89.html</link><description>```
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>s Blog</title><link>https://shutouyabo.github.io</link><description>红烧鼠头，我喜欢吃。</description><copyright>s Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://shutouyabo.github.io</link></image><lastBuildDate>Sat, 27 Jun 2026 14:39:13 +0000</lastBuildDate><managingEditor>s Blog</managingEditor><ttl>60</ttl><webMaster>s Blog</webMaster><item><title>道德的</title><link>https://shutouyabo.github.io/post/dao-de-de.html</link><description>道德的。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/dao-de-de.html</guid><pubDate>Sat, 27 Jun 2026 14:07:54 +0000</pubDate></item><item><title>memos备忘录数据备份和恢复（用宝塔面板的文件管理器备份Memos数据）</title><link>https://shutouyabo.github.io/post/memos-bei-wang-lu-shu-ju-bei-fen-he-hui-fu-%EF%BC%88-yong-bao-ta-mian-ban-de-wen-jian-guan-li-qi-bei-fen-Memos-shu-ju-%EF%BC%89.html</link><description>```
 memos备忘录，项目地址：[](https://github.com/usememos/memos)
 
 memos部署了很久，看官方的文档，备份和恢复还是无法很好的实现；求助豆包，给了一些方式，验证后总结如下：
@@ -11,18 +11,18 @@ memos部署了很久，看官方的文档，备份和恢复还是无法很好的
 
 这是最关键的一步！
 
-- 如果是 Docker 部署 ：进入宝塔面板 → 软件商店 → Docker → 找到 Memos 容器 → 点击「停止」。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/memos-bei-wang-lu-shu-ju-bei-fen-he-hui-fu-%EF%BC%88-yong-bao-ta-mian-ban-de-wen-jian-guan-li-qi-bei-fen-Memos-shu-ju-%EF%BC%89.html</guid><pubDate>Sat, 27 Jun 2026 12:45:45 +0000</pubDate></item><item><title>van-nav 用docker部署</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/van-nav%20-yong-docker-bu-shu.html</link><description>```
-Github一个导航项目，简介。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/van-nav%20-yong-docker-bu-shu.html</guid><pubDate>Sat, 27 Jun 2026 12:32:27 +0000</pubDate></item><item><title>kindle oasis3 越狱</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/kindle%20oasis3%20-yue-yu.html</link><description>最近用kindle7的看书，由于这款没有屏幕灯，看书不太方便，随即想把另一个kindle oasis 3越狱下。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/kindle%20oasis3%20-yue-yu.html</guid><pubDate>Tue, 21 Apr 2026 15:01:26 +0000</pubDate></item><item><title>《寻秦记》电影，拍的不错</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/%E3%80%8A-xun-qin-ji-%E3%80%8B-dian-ying-%EF%BC%8C-pai-de-bu-cuo.html</link><description>一直想去电影院看《寻秦记》电影版，但是一直忘记看，直到能在盗版网站上看了。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/%E3%80%8A-xun-qin-ji-%E3%80%8B-dian-ying-%EF%BC%8C-pai-de-bu-cuo.html</guid><pubDate>Tue, 24 Feb 2026 10:13:12 +0000</pubDate></item><item><title>老爸的iphone6退休了😁</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/lao-ba-de-iphone6-tui-xiu-le-%F0%9F%98%81.html</link><description>![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20251202/1.jpg)
+- 如果是 Docker 部署 ：进入宝塔面板 → 软件商店 → Docker → 找到 Memos 容器 → 点击「停止」。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/memos-bei-wang-lu-shu-ju-bei-fen-he-hui-fu-%EF%BC%88-yong-bao-ta-mian-ban-de-wen-jian-guan-li-qi-bei-fen-Memos-shu-ju-%EF%BC%89.html</guid><pubDate>Sat, 27 Jun 2026 12:45:45 +0000</pubDate></item><item><title>van-nav 用docker部署</title><link>https://shutouyabo.github.io/post/van-nav%20-yong-docker-bu-shu.html</link><description>```
+Github一个导航项目，简介。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/van-nav%20-yong-docker-bu-shu.html</guid><pubDate>Sat, 27 Jun 2026 12:32:27 +0000</pubDate></item><item><title>kindle oasis3 越狱</title><link>https://shutouyabo.github.io/post/kindle%20oasis3%20-yue-yu.html</link><description>最近用kindle7的看书，由于这款没有屏幕灯，看书不太方便，随即想把另一个kindle oasis 3越狱下。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/kindle%20oasis3%20-yue-yu.html</guid><pubDate>Tue, 21 Apr 2026 15:01:26 +0000</pubDate></item><item><title>《寻秦记》电影，拍的不错</title><link>https://shutouyabo.github.io/post/%E3%80%8A-xun-qin-ji-%E3%80%8B-dian-ying-%EF%BC%8C-pai-de-bu-cuo.html</link><description>一直想去电影院看《寻秦记》电影版，但是一直忘记看，直到能在盗版网站上看了。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/%E3%80%8A-xun-qin-ji-%E3%80%8B-dian-ying-%EF%BC%8C-pai-de-bu-cuo.html</guid><pubDate>Tue, 24 Feb 2026 10:13:12 +0000</pubDate></item><item><title>老爸的iphone6退休了😁</title><link>https://shutouyabo.github.io/post/lao-ba-de-iphone6-tui-xiu-le-%F0%9F%98%81.html</link><description>![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20251202/1.jpg)
 
 
-&lt;!-- ##{'timestamp':1764622380}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/lao-ba-de-iphone6-tui-xiu-le-%F0%9F%98%81.html</guid><pubDate>Mon, 01 Dec 2025 20:53:00 +0000</pubDate></item><item><title>《大秦风云》</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/%E3%80%8A-da-qin-feng-yun-%E3%80%8B.html</link><description>根据您提供的《大秦风云》目录和内容，我为您总结了全部 100 个小章节的精要金句或核心概念，这些内容都直接来源于您提供的文献资料.
+&lt;!-- ##{'timestamp':1764622380}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/lao-ba-de-iphone6-tui-xiu-le-%F0%9F%98%81.html</guid><pubDate>Mon, 01 Dec 2025 20:53:00 +0000</pubDate></item><item><title>《大秦风云》</title><link>https://shutouyabo.github.io/post/%E3%80%8A-da-qin-feng-yun-%E3%80%8B.html</link><description>根据您提供的《大秦风云》目录和内容，我为您总结了全部 100 个小章节的精要金句或核心概念，这些内容都直接来源于您提供的文献资料.
 
 &lt;!-- Failed to upload '吕不韦豪赌李斯求生秦朝速亡秘诀.mp3' --&gt;
 
 
 #### 第一章 奇货可居
 
-&gt; **1. 此奇货可居**：_吕不韦认为扶持国君可获利 “无数倍！”。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/%E3%80%8A-da-qin-feng-yun-%E3%80%8B.html</guid><pubDate>Sat, 22 Nov 2025 13:56:27 +0000</pubDate></item><item><title>驻马店西站</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/zhu-ma-dian-xi-zhan.html</link><description>驻马店西站
+&gt; **1. 此奇货可居**：_吕不韦认为扶持国君可获利 “无数倍！”。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/%E3%80%8A-da-qin-feng-yun-%E3%80%8B.html</guid><pubDate>Sat, 22 Nov 2025 13:56:27 +0000</pubDate></item><item><title>驻马店西站</title><link>https://shutouyabo.github.io/post/zhu-ma-dian-xi-zhan.html</link><description>驻马店西站
 2025-10-10
 
 ---
@@ -30,7 +30,7 @@ Github一个导航项目，简介。</description><guid isPermaLink="true">https
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20251010/1.jpg)
 
 
-&lt;!-- ##{'timestamp':1760063848}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/zhu-ma-dian-xi-zhan.html</guid><pubDate>Fri, 10 Oct 2025 02:37:28 +0000</pubDate></item><item><title>商丘火车站</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/shang-qiu-huo-che-zhan.html</link><description>商丘火车站
+&lt;!-- ##{'timestamp':1760063848}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/zhu-ma-dian-xi-zhan.html</guid><pubDate>Fri, 10 Oct 2025 02:37:28 +0000</pubDate></item><item><title>商丘火车站</title><link>https://shutouyabo.github.io/post/shang-qiu-huo-che-zhan.html</link><description>商丘火车站
 2025-09-22
 
 ---
@@ -38,9 +38,9 @@ Github一个导航项目，简介。</description><guid isPermaLink="true">https
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20250922/1.jpg)
 
 
-&lt;!-- ##{'timestamp':1758537346}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/shang-qiu-huo-che-zhan.html</guid><pubDate>Mon, 22 Sep 2025 10:35:46 +0000</pubDate></item><item><title>老妈的iphone7退休了😁</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/lao-ma-de-iphone7-tui-xiu-le-%F0%9F%98%81.html</link><description>![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20250909/1.jpg)
+&lt;!-- ##{'timestamp':1758537346}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/shang-qiu-huo-che-zhan.html</guid><pubDate>Mon, 22 Sep 2025 10:35:46 +0000</pubDate></item><item><title>老妈的iphone7退休了😁</title><link>https://shutouyabo.github.io/post/lao-ma-de-iphone7-tui-xiu-le-%F0%9F%98%81.html</link><description>![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20250909/1.jpg)
 
-&lt;!-- ##{'timestamp':1757412900}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/lao-ma-de-iphone7-tui-xiu-le-%F0%9F%98%81.html</guid><pubDate>Tue, 09 Sep 2025 10:15:00 +0000</pubDate></item><item><title>三星笔记软件Samsung Notes</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/san-xing-bi-ji-ruan-jian-Samsung%20Notes.html</link><description>转载知乎地址：https://zhuanlan.zhihu.com/p/682211220
+&lt;!-- ##{'timestamp':1757412900}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/lao-ma-de-iphone7-tui-xiu-le-%F0%9F%98%81.html</guid><pubDate>Tue, 09 Sep 2025 10:15:00 +0000</pubDate></item><item><title>三星笔记软件Samsung Notes</title><link>https://shutouyabo.github.io/post/san-xing-bi-ji-ruan-jian-Samsung%20Notes.html</link><description>转载知乎地址：https://zhuanlan.zhihu.com/p/682211220
 
 非三星笔记本电脑安装三星笔记程序和同步笔记的方法：
 
@@ -53,7 +53,7 @@ https://github.com/kellwinr/galaxybook_mask/releases
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20250120/1.jpg)
 
 
-PS重点：上述3个文件，都下载，并挨个运行一遍。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/san-xing-bi-ji-ruan-jian-Samsung%20Notes.html</guid><pubDate>Mon, 20 Jan 2025 05:00:00 +0000</pubDate></item><item><title>ARZOPA便携式显示屏</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/ARZOPA-bian-xi-shi-xian-shi-ping.html</link><description>前天晚上，突然心血来潮，看了很久的便携式显示屏，在22点55分终于拿下了Z3FC。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/ARZOPA-bian-xi-shi-xian-shi-ping.html</guid><pubDate>Tue, 14 Jan 2025 09:10:10 +0000</pubDate></item><item><title>开封</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/kai-feng.html</link><description>Time：2024-09-12
+PS重点：上述3个文件，都下载，并挨个运行一遍。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/san-xing-bi-ji-ruan-jian-Samsung%20Notes.html</guid><pubDate>Mon, 20 Jan 2025 05:00:00 +0000</pubDate></item><item><title>ARZOPA便携式显示屏</title><link>https://shutouyabo.github.io/post/ARZOPA-bian-xi-shi-xian-shi-ping.html</link><description>前天晚上，突然心血来潮，看了很久的便携式显示屏，在22点55分终于拿下了Z3FC。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/ARZOPA-bian-xi-shi-xian-shi-ping.html</guid><pubDate>Tue, 14 Jan 2025 09:10:10 +0000</pubDate></item><item><title>开封</title><link>https://shutouyabo.github.io/post/kai-feng.html</link><description>Time：2024-09-12
 
 ---
 
@@ -67,13 +67,13 @@ PS重点：上述3个文件，都下载，并挨个运行一遍。</description>
 
 
 
-&lt;!-- ##{'timestamp':1726129107}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/kai-feng.html</guid><pubDate>Thu, 12 Sep 2024 08:18:27 +0000</pubDate></item><item><title>少华山</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/shao-hua-shan.html</link><description>
+&lt;!-- ##{'timestamp':1726129107}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/kai-feng.html</guid><pubDate>Thu, 12 Sep 2024 08:18:27 +0000</pubDate></item><item><title>少华山</title><link>https://shutouyabo.github.io/post/shao-hua-shan.html</link><description>
 ![Image](https://cdn.jsdelivr.net/gh/shutouyabo/image-md@main/images/20231014/1.jpg)
 
 ![Image](https://cdn.jsdelivr.net/gh/shutouyabo/image-md@main/images/20231014/2.jpg)
 
 
-&lt;!-- ##{'timestamp':1697266800}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/shao-hua-shan.html</guid><pubDate>Sat, 14 Oct 2023 07:00:00 +0000</pubDate></item><item><title>哈马斯和以色列，你支持哪一个？</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/ha-ma-si-he-yi-se-lie-%EF%BC%8C-ni-zhi-chi-na-yi-ge-%EF%BC%9F.html</link><description>有很多人说，只谴责哈马斯的恐怖袭击，不谴责以色列的轰炸，死的都是平民，这是双标。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/ha-ma-si-he-yi-se-lie-%EF%BC%8C-ni-zhi-chi-na-yi-ge-%EF%BC%9F.html</guid><pubDate>Thu, 12 Oct 2023 04:00:00 +0000</pubDate></item><item><title>犒劳下自己</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/kao-lao-xia-zi-ji.html</link><description>最近煎熬的很，必须叫个优质的犒劳下自己
+&lt;!-- ##{'timestamp':1697266800}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/shao-hua-shan.html</guid><pubDate>Sat, 14 Oct 2023 07:00:00 +0000</pubDate></item><item><title>哈马斯和以色列，你支持哪一个？</title><link>https://shutouyabo.github.io/post/ha-ma-si-he-yi-se-lie-%EF%BC%8C-ni-zhi-chi-na-yi-ge-%EF%BC%9F.html</link><description>有很多人说，只谴责哈马斯的恐怖袭击，不谴责以色列的轰炸，死的都是平民，这是双标。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/ha-ma-si-he-yi-se-lie-%EF%BC%8C-ni-zhi-chi-na-yi-ge-%EF%BC%9F.html</guid><pubDate>Thu, 12 Oct 2023 04:00:00 +0000</pubDate></item><item><title>犒劳下自己</title><link>https://shutouyabo.github.io/post/kao-lao-xia-zi-ji.html</link><description>最近煎熬的很，必须叫个优质的犒劳下自己
 Time：2023-05-09
 
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20230509/1.jpg)
@@ -83,11 +83,11 @@ Time：2023-05-09
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20230509/3.jpg)
 
 
-&lt;!-- ##{'timestamp':1683630720}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/kao-lao-xia-zi-ji.html</guid><pubDate>Tue, 09 May 2023 11:12:00 +0000</pubDate></item><item><title>汉中汽车站</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/han-zhong-qi-che-zhan.html</link><description>向晚意不适，驱车登古原……请接下两句……
+&lt;!-- ##{'timestamp':1683630720}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/kao-lao-xia-zi-ji.html</guid><pubDate>Tue, 09 May 2023 11:12:00 +0000</pubDate></item><item><title>汉中汽车站</title><link>https://shutouyabo.github.io/post/han-zhong-qi-che-zhan.html</link><description>向晚意不适，驱车登古原……请接下两句……
 
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20160510/1.jpg)
 
-&lt;!-- ##{'timestamp':1462876560}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/han-zhong-qi-che-zhan.html</guid><pubDate>Tue, 10 May 2016 10:36:00 +0000</pubDate></item><item><title>今日生日</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/jin-ri-sheng-ri.html</link><description>2013年生日
+&lt;!-- ##{'timestamp':1462876560}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/han-zhong-qi-che-zhan.html</guid><pubDate>Tue, 10 May 2016 10:36:00 +0000</pubDate></item><item><title>今日生日</title><link>https://shutouyabo.github.io/post/jin-ri-sheng-ri.html</link><description>2013年生日
 
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20130623/1.jpg)
 
@@ -98,13 +98,13 @@ Time：2023-05-09
 
 &lt;!-- ##{'timestamp':1371978000}## --&gt;
 
-。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/jin-ri-sheng-ri.html</guid><pubDate>Sun, 23 Jun 2013 09:00:00 +0000</pubDate></item><item><title>抓拍</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/zhua-pai.html</link><description>郑乐
+。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/jin-ri-sheng-ri.html</guid><pubDate>Sun, 23 Jun 2013 09:00:00 +0000</pubDate></item><item><title>抓拍</title><link>https://shutouyabo.github.io/post/zhua-pai.html</link><description>郑乐
 2013-6-21
 
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20130621/1.jpg)
 
 
-&lt;!-- ##{'timestamp':1371802833}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/zhua-pai.html</guid><pubDate>Fri, 21 Jun 2013 08:20:33 +0000</pubDate></item><item><title>兰州第一次夜宵</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/lan-zhou-di-yi-ci-ye-xiao.html</link><description>Time：2013-6-13
+&lt;!-- ##{'timestamp':1371802833}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/zhua-pai.html</guid><pubDate>Fri, 21 Jun 2013 08:20:33 +0000</pubDate></item><item><title>兰州第一次夜宵</title><link>https://shutouyabo.github.io/post/lan-zhou-di-yi-ci-ye-xiao.html</link><description>Time：2013-6-13
 
 ---
 
@@ -113,7 +113,7 @@ Time：2023-05-09
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20130613/2.jpg)
 
 
-&lt;!-- ##{'timestamp':1371130317}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/lan-zhou-di-yi-ci-ye-xiao.html</guid><pubDate>Thu, 13 Jun 2013 13:31:57 +0000</pubDate></item><item><title>归家的人</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/gui-jia-de-ren.html</link><description>
+&lt;!-- ##{'timestamp':1371130317}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/lan-zhou-di-yi-ci-ye-xiao.html</guid><pubDate>Thu, 13 Jun 2013 13:31:57 +0000</pubDate></item><item><title>归家的人</title><link>https://shutouyabo.github.io/post/gui-jia-de-ren.html</link><description>
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20130403/1.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20130403/2.jpg)
@@ -121,7 +121,7 @@ Time：2023-05-09
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20130403/3.jpg)
 
 
-&lt;!-- ##{'timestamp':1364982000}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/gui-jia-de-ren.html</guid><pubDate>Wed, 03 Apr 2013 09:40:00 +0000</pubDate></item><item><title>玉树，我来了</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/yu-shu-%EF%BC%8C-wo-lai-le.html</link><description>
+&lt;!-- ##{'timestamp':1364982000}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/gui-jia-de-ren.html</guid><pubDate>Wed, 03 Apr 2013 09:40:00 +0000</pubDate></item><item><title>玉树，我来了</title><link>https://shutouyabo.github.io/post/yu-shu-%EF%BC%8C-wo-lai-le.html</link><description>
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20121003/1.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20121003/2.jpg)
@@ -131,7 +131,7 @@ Time：2023-05-09
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20121003/4.jpg)
 
 
-&lt;!-- ##{'timestamp':1349269260}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/yu-shu-%EF%BC%8C-wo-lai-le.html</guid><pubDate>Wed, 03 Oct 2012 13:01:00 +0000</pubDate></item><item><title>春花天桥</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/chun-hua-tian-qiao.html</link><description>![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20120821/1.jpg)
+&lt;!-- ##{'timestamp':1349269260}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/yu-shu-%EF%BC%8C-wo-lai-le.html</guid><pubDate>Wed, 03 Oct 2012 13:01:00 +0000</pubDate></item><item><title>春花天桥</title><link>https://shutouyabo.github.io/post/chun-hua-tian-qiao.html</link><description>![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20120821/1.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20120821/2.jpg)
 
@@ -144,13 +144,13 @@ Time：2023-05-09
 ---
 
 &lt;!-- ##{'timestamp':1345554000}## --&gt;
-。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/chun-hua-tian-qiao.html</guid><pubDate>Tue, 21 Aug 2012 13:00:00 +0000</pubDate></item><item><title>白河县体育场</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/bai-he-xian-ti-yu-chang.html</link><description>![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20111122/1.jpg)
+。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/chun-hua-tian-qiao.html</guid><pubDate>Tue, 21 Aug 2012 13:00:00 +0000</pubDate></item><item><title>白河县体育场</title><link>https://shutouyabo.github.io/post/bai-he-xian-ti-yu-chang.html</link><description>![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20111122/1.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20111122/2.jpg)
 
 
-&lt;!-- ##{'timestamp':1321970400}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/bai-he-xian-ti-yu-chang.html</guid><pubDate>Tue, 22 Nov 2011 14:00:00 +0000</pubDate></item><item><title>我是纺织城人，我家在纺织城。</title><link>https://shutouyabo.github.io/wangbinrun.github.io/post/wo-shi-fang-zhi-cheng-ren-%EF%BC%8C-wo-jia-zai-fang-zhi-cheng-%E3%80%82.html</link><description>外地同学问我：“你家在哪里？”
-    “东郊的。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/post/wo-shi-fang-zhi-cheng-ren-%EF%BC%8C-wo-jia-zai-fang-zhi-cheng-%E3%80%82.html</guid><pubDate>Sun, 08 Feb 2009 10:35:00 +0000</pubDate></item><item><title>link</title><link>https://shutouyabo.github.io/wangbinrun.github.io/link.html</link><description>
+&lt;!-- ##{'timestamp':1321970400}## --&gt;。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/bai-he-xian-ti-yu-chang.html</guid><pubDate>Tue, 22 Nov 2011 14:00:00 +0000</pubDate></item><item><title>我是纺织城人，我家在纺织城。</title><link>https://shutouyabo.github.io/post/wo-shi-fang-zhi-cheng-ren-%EF%BC%8C-wo-jia-zai-fang-zhi-cheng-%E3%80%82.html</link><description>外地同学问我：“你家在哪里？”
+    “东郊的。</description><guid isPermaLink="true">https://shutouyabo.github.io/post/wo-shi-fang-zhi-cheng-ren-%EF%BC%8C-wo-jia-zai-fang-zhi-cheng-%E3%80%82.html</guid><pubDate>Sun, 08 Feb 2009 10:35:00 +0000</pubDate></item><item><title>link</title><link>https://shutouyabo.github.io/link.html</link><description>
 **本站设置：**
 
 - [eekdai快速上手](https://blog.meekdai.com/)
@@ -172,9 +172,9 @@ Time：2023-05-09
 
 - [fmhy](https://fmhy.net/) 帮助用户轻松找到各种免费的工具、服务和学习资源的网站
 
-- [Z-Library](https://zh.z-lib.gd/) 世界上最大的电子图书馆。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/link.html</guid><pubDate>Wed, 03 Sep 2025 15:46:48 +0000</pubDate></item><item><title>about</title><link>https://shutouyabo.github.io/wangbinrun.github.io/about.html</link><description>[Notion知识库](https://wangbin-run.notion.site/bin)
+- [Z-Library](https://zh.z-lib.gd/) 世界上最大的电子图书馆。</description><guid isPermaLink="true">https://shutouyabo.github.io/link.html</guid><pubDate>Wed, 03 Sep 2025 15:46:48 +0000</pubDate></item><item><title>about</title><link>https://shutouyabo.github.io/about.html</link><description>[Notion知识库](https://wangbin-run.notion.site/bin)
 
 [Notion网站链接](https://dz303241.notion.site/wangzhan)
 
 [回形针重症监护室 | ipaperclip.icu](https://ipaperclip.icu/)
-。</description><guid isPermaLink="true">https://shutouyabo.github.io/wangbinrun.github.io/about.html</guid><pubDate>Wed, 03 Sep 2025 15:47:14 +0000</pubDate></item></channel></rss>
+。</description><guid isPermaLink="true">https://shutouyabo.github.io/about.html</guid><pubDate>Wed, 03 Sep 2025 15:47:14 +0000</pubDate></item></channel></rss>
