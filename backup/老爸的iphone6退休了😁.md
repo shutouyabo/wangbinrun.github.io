@@ -1,5 +1,4 @@
-![Image](https://github.com/user-attachments/assets/a48c0b88-96ef-4afe-8ccb-5e27d17b46a9)
-
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20251202/1.jpg)
 
 
 <!-- ##{"timestamp":1764622380}## -->
