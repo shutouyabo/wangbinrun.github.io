@@ -50,17 +50,19 @@ https://kindlemodding.org/nosb
 （2）放根目录 → 弹出
 （3）Kindle：设置 → 菜单 → 更新您的 Kindle
 
-<img width="2859" height="3626" alt="Image" src="https://github.com/user-attachments/assets/fca55c4a-306d-473f-a4a6-55ff20dd5e3d" />
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/1.png)
+
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/2.png)
 出现错误，再试一次
 
-<img width="2860" height="3426" alt="Image" src="https://github.com/user-attachments/assets/fb08e765-a52d-4fce-ac67-cd36ca352aab" />
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/3.png)
 
-<img width="2824" height="3584" alt="Image" src="https://github.com/user-attachments/assets/68aaaa79-7859-414e-83f5-4a49830666d5" />
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/4.png)
 
-<img width="2879" height="3311" alt="Image" src="https://github.com/user-attachments/assets/8dcc2dd9-92b3-4aa6-adf9-383268779efc" />
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/5.png)
 
 4. 等待重启 → 完成
-<img width="2854" height="3355" alt="Image" src="https://github.com/user-attachments/assets/eeeefea8-9702-4ee7-b5b0-5f3d272cbd50" />
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/6.png)
 
 
 二、安装 KUAL + MRPI（必备）
