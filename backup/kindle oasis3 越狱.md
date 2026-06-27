@@ -34,7 +34,7 @@ Kindle 开 飞行模式
 连电脑 → 出现 Kindle 盘
 把 3 个文件 放到 根目录 （和 documents 同级）
 安全弹出
-<img src="https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/1.png"/>
+![](https://cdn.jsdelivr.net/gh/shutouyabo/image-md@main/images/FireShot%20Webpage%20Capture%20307%20-%20'%E5%B7%A5%E4%BD%9C%E5%8C%BA'%20-%20www.meshy.ai.jpg)
 3. 触发越狱
 （1）回到 Kindle → 菜单 → 打开 浏览器
 （2）地址栏输入：
