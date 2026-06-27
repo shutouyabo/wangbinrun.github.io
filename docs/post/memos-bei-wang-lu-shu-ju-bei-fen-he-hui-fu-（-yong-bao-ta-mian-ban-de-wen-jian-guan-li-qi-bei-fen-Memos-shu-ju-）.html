@@ -11,14 +11,36 @@
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
 <meta name="description" content="```
-Github一个导航项目，简介。">
-<meta property="og:title" content="van-nav 用docker部署">
+memos备忘录，项目地址：[](https://github.com/usememos/memos)
+
+memos部署了很久，看官方的文档，备份和恢复还是无法很好的实现；求助豆包，给了一些方式，验证后总结如下：
+```
+
+## 宝塔文件管理器备份 Memos 的正确步骤
+
+### 1. 【必做前提】先停止 Memos 服务 / 容器
+
+这是最关键的一步！
+
+- 如果是 Docker 部署 ：进入宝塔面板 → 软件商店 → Docker → 找到 Memos 容器 → 点击「停止」。">
+<meta property="og:title" content="memos备忘录数据备份和恢复（用宝塔面板的文件管理器备份Memos数据）">
 <meta property="og:description" content="```
-Github一个导航项目，简介。">
+memos备忘录，项目地址：[](https://github.com/usememos/memos)
+
+memos部署了很久，看官方的文档，备份和恢复还是无法很好的实现；求助豆包，给了一些方式，验证后总结如下：
+```
+
+## 宝塔文件管理器备份 Memos 的正确步骤
+
+### 1. 【必做前提】先停止 Memos 服务 / 容器
+
+这是最关键的一步！
+
+- 如果是 Docker 部署 ：进入宝塔面板 → 软件商店 → Docker → 找到 Memos 容器 → 点击「停止」。">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://shutouyabo.github.io/wangbinrun.github.io/post/van-nav%20-yong-docker-bu-shu.html">
+<meta property="og:url" content="https://shutouyabo.github.io/wangbinrun.github.io/post/memos-bei-wang-lu-shu-ju-bei-fen-he-hui-fu-%EF%BC%88-yong-bao-ta-mian-ban-de-wen-jian-guan-li-qi-bei-fen-Memos-shu-ju-%EF%BC%89.html">
 <meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
-<title>van-nav 用docker部署</title>
+<title>memos备忘录数据备份和恢复（用宝塔面板的文件管理器备份Memos数据）</title>
 
 
 
@@ -61,7 +83,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
 <body>
     <div id="header">
-<h1 class="postTitle">van-nav 用docker部署</h1>
+<h1 class="postTitle">memos备忘录数据备份和恢复（用宝塔面板的文件管理器备份Memos数据）</h1>
 <div class="title-right">
     <a href="https://shutouyabo.github.io/wangbinrun.github.io" id="buttonHome" class="btn btn-invisible circle" title="首页">
         <svg class="octicon" width="16" height="16">
@@ -69,7 +91,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         </svg>
     </a>
     
-    <a href="https://github.com/shutouyabo/wangbinrun.github.io/issues/30" target="_blank" class="btn btn-invisible circle" title="Issue">
+    <a href="https://github.com/shutouyabo/wangbinrun.github.io/issues/31" target="_blank" class="btn btn-invisible circle" title="Issue">
         <svg class="octicon" width="16" height="16">
             <path id="pathIssue" fill-rule="evenodd"></path>
         </svg>
@@ -85,41 +107,56 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
 </div>
     <div id="content">
-<div class="markdown-body" id="postBody"><pre class="notranslate"><code class="notranslate">Github一个导航项目，简介。地址：https://github.com/Mereithhh/van-nav
+<div class="markdown-body" id="postBody"><pre class="notranslate"><code class="notranslate">memos备忘录，项目地址：[](https://github.com/usememos/memos)
 
-docker设置了很久，都无法部署；求助豆包，给了好几种方案；使用中用之一，部署成功，贴出分享。
+memos部署了很久，看官方的文档，备份和恢复还是无法很好的实现；求助豆包，给了一些方式，验证后总结如下：
 </code></pre>
-<p>从报错信息看，你是用宝塔面板 Docker 插件创建容器，核心问题：缺少数据卷挂载 + 端口绑定 + 权限潜在问题，一步步修复即可。</p>
-<h2>一、问题原因</h2>
-<ol>
-<li>没挂载持久化目录，程序启动读写 <code class="notranslate">nav.db</code> 数据库失败，直接报错；</li>
-<li>你把端口绑在了 <code class="notranslate">127.0.0.1:6414</code>， 仅本机可访问 ，外网 / 其他设备打不开；</li>
-<li>OpenCloudOS 9 基于 RHEL 系，目录权限、SELinux 也可能拦截读写。</li>
-</ol>
-<h2>二、方案 1：宝塔面板重新创建（图形化操作，推荐）</h2>
-<ol>
-<li>先删掉当前报错容器 <code class="notranslate">van-nav2</code></li>
-<li>进入 宝塔 → Docker → 容器 → 添加容器</li>
-</ol>
+<h2>宝塔文件管理器备份 Memos 的正确步骤</h2>
+<h3>1. 【必做前提】先停止 Memos 服务 / 容器</h3>
+<p>这是最关键的一步！</p>
 <ul>
-<li>镜像 ：<code class="notranslate">mereith/van-nav:latest</code></li>
-<li>容器名称 ：自定义 <code class="notranslate">van-nav</code></li>
-<li>重启策略 ：选择 <code class="notranslate">always</code>（开机自启）</li>
-<li>端口映射 外部端口：<code class="notranslate">6414</code>，容器端口：<code class="notranslate">6412</code> IP 不要填 127.0.0.1，留空 / 选择 0.0.0.0 （全网可访问）</li>
-<li>目录挂载（关键！） 宿主机目录：<code class="notranslate">/www/docker/van-nav/data</code>（宝塔常规路径） 容器目录：<code class="notranslate">/app/data</code> 权限：勾选 读写</li>
+<li>如果是 Docker 部署 ：进入宝塔面板 → 软件商店 → Docker → 找到 Memos 容器 → 点击「停止」。</li>
+<li>如果是 直接部署 ：停止 Memos 对应的进程或服务（比如在终端执行 <code class="notranslate">sudo systemctl stop memos</code>）。</li>
 </ul>
-<ol start="3">
-<li>其他选项全部默认， 不要加命令 / 入口文件 ，直接点创建启动。</li>
+<blockquote>
+<p>目的：防止数据库文件被程序占用，导致备份的文件损坏、不完整。</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d16d629de216f0b2900df8afeb585d4c2f2e54719744e95b8e3bc8052d604078/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f61736875746f757961626f2f77616e6762696e72756e2e6769746875622e696f406d61696e2f696d616765732f32303236303631312f312e6a7067"><img src="https://camo.githubusercontent.com/d16d629de216f0b2900df8afeb585d4c2f2e54719744e95b8e3bc8052d604078/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f61736875746f757961626f2f77616e6762696e72756e2e6769746875622e696f406d61696e2f696d616765732f32303236303631312f312e6a7067" alt="" data-canonical-src="https://cdn.jsdelivr.net/gh/ashutouyabo/wangbinrun.github.io@main/images/20260611/1.jpg" style="max-width: 100%;"></a></p>
+<p>点击“停止”</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a77c0d8c87de014c41965e0b5e6142b21f5a749b81c3d3c0f1fe204f6bf7aabf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f736875746f757961626f2f77616e6762696e72756e2e6769746875622e696f406d61696e2f696d616765732f32303236303631312f322e6a7067"><img src="https://camo.githubusercontent.com/a77c0d8c87de014c41965e0b5e6142b21f5a749b81c3d3c0f1fe204f6bf7aabf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f736875746f757961626f2f77616e6762696e72756e2e6769746875622e696f406d61696e2f696d616765732f32303236303631312f322e6a7067" alt="" data-canonical-src="https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260611/2.jpg" style="max-width: 100%;"></a></p>
+<h3>2. 找到 Memos 的数据目录</h3>
+<p>Memos 的所有数据都存在一个目录里，你要找到它：</p>
+<ul>
+<li>默认路径 ：通常是 <code class="notranslate">/root/.memos</code> 或 <code class="notranslate">/home/你的用户/.memos</code></li>
+<li>Docker 部署 ：你可以在容器的「设置」→「目录 / 端口」里，找到你映射的宿主机目录（比如 <code class="notranslate">/www/memos-data</code> 这类自定义路径）。</li>
+</ul>
+<blockquote>
+<p>这个目录里必须包含 <code class="notranslate">memos_prod.db</code> 文件和 <code class="notranslate">assets</code> 文件夹，这两个是你的笔记和附件核心数据。</p>
+</blockquote>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/069e7be8873e714cd37b8bcc11e82b5d9275e59232a82e94c0c58a16684123bf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f736875746f757961626f2f77616e6762696e72756e2e6769746875622e696f406d61696e2f696d616765732f32303236303631312f332e6a7067"><img src="https://camo.githubusercontent.com/069e7be8873e714cd37b8bcc11e82b5d9275e59232a82e94c0c58a16684123bf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f736875746f757961626f2f77616e6762696e72756e2e6769746875622e696f406d61696e2f696d616765732f32303236303631312f332e6a7067" alt="" data-canonical-src="https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260611/3.jpg" style="max-width: 100%;"></a></p>
+<h3>3. 宝塔文件管理器操作</h3>
+<ol>
+<li>进入宝塔「文件」面板，找到上面说的 Memos 数据目录。</li>
+<li>选中整个 <code class="notranslate">.memos</code> 文件夹（或你自定义的 data 目录）。</li>
+<li>点击顶部的「压缩」按钮，格式选 <code class="notranslate">tar.gz</code>（通用压缩格式，恢复时兼容性最好）。</li>
+<li>压缩完成后，你可以把这个压缩包下载到本地电脑，或者复制到服务器的其他目录（比如 <code class="notranslate">/www/backup</code>）做异地备份。</li>
 </ol>
-<blockquote>
-<p>原理：把容器内 <code class="notranslate">/app/data</code> 数据库目录挂载到宿主机，数据持久化且解决读写报错。</p>
-</blockquote>
-<h2>三、访问地址</h2>
-<blockquote>
-<p><code class="notranslate">http://服务器IP:6414</code></p>
-</blockquote>
-<p>或者绑定域名</p>
-<p>默认账号密码：admin / admin</p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/76d339f79dbcc09070ba245e933de0eb0809c326d17274971ed81999ee416f90/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f736875746f757961626f2f77616e6762696e72756e2e6769746875622e696f406d61696e2f696d616765732f32303236303631312f342e6a7067"><img src="https://camo.githubusercontent.com/76d339f79dbcc09070ba245e933de0eb0809c326d17274971ed81999ee416f90/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f736875746f757961626f2f77616e6762696e72756e2e6769746875622e696f406d61696e2f696d616765732f32303236303631312f342e6a7067" alt="" data-canonical-src="https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260611/4.jpg" style="max-width: 100%;"></a></p>
+<h3>4. 恢复操作（关键！）</h3>
+<ol>
+<li>再次停止 Memos 服务 / 容器。</li>
+<li>把旧的 Memos 数据目录重命名（比如改成 <code class="notranslate">.memos-old</code>，防止恢复失败还能回退）。</li>
+<li>把你备份的 <code class="notranslate">.tar.gz</code> 压缩包上传到服务器，解压成新的 <code class="notranslate">.memos</code> 文件夹。</li>
+<li>确认解压后的目录里有 <code class="notranslate">memos_prod.db</code> 和 <code class="notranslate">assets</code> 文件夹。</li>
+<li>启动 Memos 服务 / 容器，登录检查笔记和附件是否完整。</li>
+</ol>
+<h3>注意事项 &amp; 避坑指南</h3>
+<ol>
+<li>必须先停止服务 不停止服务直接复制文件，大概率会导致备份的数据库文件损坏，恢复后笔记丢失或打不开。这是最常见的错误。</li>
+<li>必须备份整个目录，不要只复制单个文件 只复制 <code class="notranslate">memos_prod.db</code> 会丢失你上传的所有图片 / 附件；只复制 <code class="notranslate">assets</code> 文件夹会丢失笔记数据。整个目录打包是最稳妥的。</li>
+<li>一定要测试恢复 备份完成后，建议在测试环境里恢复一次，确认数据能正常打开。很多人备份了好几年，到恢复时才发现文件损坏，就白忙活了。</li>
+<li>定期做异地备份 只存在服务器上的备份，万一服务器硬盘坏了，数据还是会丢。建议定期把压缩包下载到本地，或者传到网盘 / 其他服务器。</li>
+</ol>
 </div>
 <div style="font-size:small;margin-top:8px;float:right;"></div>
 
