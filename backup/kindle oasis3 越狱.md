@@ -34,14 +34,16 @@ Kindle 开 飞行模式
 连电脑 → 出现 Kindle 盘
 把 3 个文件 放到 根目录 （和 documents 同级）
 安全弹出
-
+<img src="https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/1.png"/>
 3. 触发越狱
 （1）回到 Kindle → 菜单 → 打开 浏览器
 （2）地址栏输入：
 plaintext
 https://kindlemodding.org/nosb
 （3）点页面里的 Jeff Bezos 头像 （点一次）
-<img width="3000" height="2660" alt="Image" src="https://github.com/user-attachments/assets/83ae19aa-3f6e-4a68-93e0-7ac670fac8b5" />
+
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/1.png)
+
 等待 10–30 秒 → 自动回到桌面
 出现 “Success!” 或 KUAL 图标 → 越狱成功
 
@@ -50,9 +52,8 @@ https://kindlemodding.org/nosb
 （2）放根目录 → 弹出
 （3）Kindle：设置 → 菜单 → 更新您的 Kindle
 
-![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/1.png)
-
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/2.png)
+
 出现错误，再试一次
 
 ![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/3.png)
