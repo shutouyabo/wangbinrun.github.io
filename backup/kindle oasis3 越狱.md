@@ -34,7 +34,6 @@ Kindle 开 飞行模式
 连电脑 → 出现 Kindle 盘
 把 3 个文件 放到 根目录 （和 documents 同级）
 安全弹出
-![](https://cdn.jsdelivr.net/gh/shutouyabo/image-md@main/images/FireShot%20Webpage%20Capture%20307%20-%20'%E5%B7%A5%E4%BD%9C%E5%8C%BA'%20-%20www.meshy.ai.jpg)
 3. 触发越狱
 （1）回到 Kindle → 菜单 → 打开 浏览器
 （2）地址栏输入：
@@ -42,7 +41,7 @@ plaintext
 https://kindlemodding.org/nosb
 （3）点页面里的 Jeff Bezos 头像 （点一次）
 
-![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/1.png)
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/1.jpg)
 
 等待 10–30 秒 → 自动回到桌面
 出现 “Success!” 或 KUAL 图标 → 越狱成功
@@ -52,18 +51,18 @@ https://kindlemodding.org/nosb
 （2）放根目录 → 弹出
 （3）Kindle：设置 → 菜单 → 更新您的 Kindle
 
-![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/2.png)
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/2.jpg)
 
 出现错误，再试一次
 
-![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/3.png)
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/3.jpg)
 
-![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/4.png)
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/4.jpg)
 
-![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/5.png)
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/5.jpg)
 
 4. 等待重启 → 完成
-![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/6.png)
+![](https://cdn.jsdelivr.net/gh/shutouyabo/wangbinrun.github.io@main/images/20260421/6.jpg)
 
 
 二、安装 KUAL + MRPI（必备）
